@@ -1,2 +1,2 @@
 # Practica-1-1
-Esta es mi ejercico de practica 1-1
+Este es mi ejercicio de practica 1-1
