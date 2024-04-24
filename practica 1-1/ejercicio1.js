@@ -1,2 +1,3 @@
-const leer = require("prompt-sync")();
-console.log("hola mundo")
+const leer= require("prompt-sync")();
+
+console.log("hola mundo");
