@@ -1,4 +1,5 @@
-const leer = require("prompt-sync")()
+const leer = require("prompt-sync")();
+
 let numerMinimo= 0;
 let numeroMaximo= 6;
 let intentos= 10;
